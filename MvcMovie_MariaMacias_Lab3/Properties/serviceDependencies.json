@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:MvcMovie_MariaMacias_Lab3Context"
+    }
+  }
+}
